@@ -23,7 +23,8 @@
 
 <h3 align="left">Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav00-prog&show_icons=true&locale=en" alt="keshav00-prog" /></p>
-
+<h3 align="left">Most Used Languages </h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav00-prog&langs_count=8" alt="keshav00-prog" /></p>
 <h3 align="left">Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav00-prog&" alt="keshav00-prog" /></p>
 
